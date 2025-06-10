@@ -1,8 +1,4 @@
 {
   "name": "feishu-proxy-test",
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "start": "node api/index.js"
-  }
+  "version": "1.0.0"
 }
